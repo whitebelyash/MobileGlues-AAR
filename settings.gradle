@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "NG GL4ES Wrapper"
-include ':app'
+rootProject.name = "MobileGlues AAR"
+include ':mg'
