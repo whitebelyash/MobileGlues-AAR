@@ -1,3 +1,3 @@
-[submodule "app/src/main/mg"]
-	path = app/src/main/mg
+[submodule "mg/src/main/mg"]
+	path = mg/src/main/mg
 	url = https://github.com/MobileGL-Dev/MobileGlues
